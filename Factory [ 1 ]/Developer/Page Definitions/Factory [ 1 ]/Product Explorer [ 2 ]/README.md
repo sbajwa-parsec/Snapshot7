@@ -157,6 +157,3 @@
 
 - PageDefinitionSectionGroupID
   -1
-
-- HideInNavigationKey
-  
