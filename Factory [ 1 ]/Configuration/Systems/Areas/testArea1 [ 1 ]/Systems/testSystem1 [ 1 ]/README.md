@@ -166,9 +166,3 @@
 
 - TemplateData
   
-
-
-## Linked Items
-
-### OeeCalculation
-- [testKpiCalculation1](Factory [ 1 ]/Configuration/Views/Kpi Calculation/Kpi Calculation Views/testKpiCalculation1 [ 1 ])

@@ -1,4 +1,4 @@
-# AccessName: testDatabaseAccessName1
+# AccessName: t4
 
 ## Properties
 
@@ -6,13 +6,13 @@
   1
 
 - ID
-  1
+  4
 
 - Guid
-  3fb50e2e-a81b-4766-b908-b92d597ef00b
+  2674c86b-7f32-4ee6-8287-d4ac78ba3737
 
 - Name
-  testDatabaseAccessName1
+  t4
 
 - AltName
   
@@ -24,7 +24,7 @@
   
 
 - AccessNameGroupID
-  1
+  4
 
 - Type
   3
@@ -36,7 +36,7 @@
   192
 
 - DisplayOrder
-  8
+  28
 
 - SimulationModeActive
   0
@@ -58,7 +58,7 @@
   1
 
 - AccessNameID
-  1
+  4
 
 - ConnectionString
   Provider=SQLOLEDB;Data Source=(LOCAL);Database=EDB;User ID=edbApp;Password=Sqlapp!23;Persist Security Info=True;
@@ -70,4 +70,4 @@
   5
 
 - Query
-  SELECT * FROM tUser
+  SELECT * FROM tLog

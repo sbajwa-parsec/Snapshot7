@@ -1,4 +1,4 @@
-# Tag: testLogicService1
+# Tag: t2
 
 ## Properties
 
@@ -6,13 +6,13 @@
   1
 
 - ID
-  1
+  2
 
 - Guid
-  4ab133fe-f132-4d7e-bdfd-49779bdd6da5
+  600a4df4-6d25-4365-a639-b26ca0e72734
 
 - Name
-  testLogicService1
+  t2
 
 - AltName
   
@@ -24,16 +24,16 @@
   
 
 - TagGroupID
-  1
+  2
 
 - TagTypeID
   -1
 
 - AccessNameID
-  1
+  -1
 
 - Type
-  3
+  4
 
 - DataType
   1
@@ -81,7 +81,7 @@
   2
 
 - UpdateDateTime
-  2026-06-30T09:50:02-07:00
+  2026-06-30T12:28:36-07:00
 
 - RefreshKey
   
@@ -96,7 +96,7 @@
   
 
 - DisplayOrder
-  10
+  26
 
 - IsReadOnly
   0
@@ -107,7 +107,7 @@
 - LoadedByLogicManagerID
   -1
 
-# TagOleDb: TagOleDb
+# TagVirtual: TagVirtual
 
 ## Properties
 
@@ -115,19 +115,4 @@
   1
 
 - TagID
-  1
-
-- UseKeyColumn
-  0
-
-- KeyColumnName
-  
-
-- KeyColumnDataType
-  1
-
-- KeyColumnValue
-  
-
-- ValueColumnName
-  
+  2

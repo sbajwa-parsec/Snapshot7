@@ -118,15 +118,3 @@
 
 - HaCertificateDateTime
   1800-01-01T00:00:00+00:00
-
-
-## Linked Items
-
-### AccessNameGroup
-- [testAccessNameGroup1](Factory [ 1 ]/Configuration/Tags/Access Names/Groups/testAccessNameGroup1 [ 1 ])
-
-### Area
-- [testArea1](Factory [ 1 ]/Configuration/Systems/Areas/testArea1 [ 1 ])
-
-### TagGroup
-- [testTagGroup1](Factory [ 1 ]/Configuration/Tags/Groups/testTagGroup1 [ 1 ])
